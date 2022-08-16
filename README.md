@@ -1,4 +1,4 @@
-<h3>Olá! Eu Sou Diovan</h3> 
+<h3>Olá! Eu Sou Diovan.</h3> 
 🏫    Estou cursando Faculdade: <strong> Fatec Jahu</strong><br>
 📚    No Curso: <strong> Gestão da Tecnologia da Informação 5/6 </strong><br>
 🧑🏻‍💻  Área que pretemdo Atuar: <strong> Desenvolvemento Web</strong><br>
