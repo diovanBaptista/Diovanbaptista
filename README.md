@@ -2,7 +2,7 @@
 
 😍 Sou apaixonado por Tecnologia<br>
 🏫📚  Estou no 5º Período de Gestão da Tecnologia da Informação na Fatec de Jahu<br>
-🧑🏻‍💻  Procuro oportunidade de estágio para atuar no mercado de trabalho.<br> 
+🧑🏻‍💻  Procuro oportunidade de estágio para atuar no mercado de trabalho.<br 
 
 <hr><br>
 <div align="center">
