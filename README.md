@@ -4,7 +4,7 @@
 🏫📚  Estou no 5º Período de Gestão da Tecnologia da Informação na Fatec de Jahu<br>
 🧑🏻‍💻  Procuro oportunidade de estágio para atuar no mercado de trabalho.<br> 
 
-<hr>
+<hr><br>
 <div align="center">
   <a href="https://github.com/diovanbaptista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diovanbaptista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
