@@ -1,8 +1,7 @@
 <div align="center"><h2>Olá! Eu Sou Diovan.</h2></div>
 <div>
 😍 Sou apaixonado por Tecnologia<br>
-🏫📚  Estou no 5º Período de Gestão da Tecnologia da Informação na Fatec de Jahu<br>
-🧑🏻‍💻  Procuro oportunidade de estágio para atuar no mercado de trabalho.<br> 
+🏫📚  Estou no 5º Período de Gestão da Tecnologia da Informação na Fatec de Jahu, Procuro oportunidade de estágio para atuar no mercado de trabalho.🧑🏻‍💻<br> 
 </div>
 <hr><br>
 <div align="center">
