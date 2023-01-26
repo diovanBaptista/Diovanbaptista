@@ -2,7 +2,7 @@
 <div>
 😍 Sou apaixonado por Tecnologia<br>
 🏫📚  Estou no 6º Período de Gestão da Tecnologia da Informação na Fatec de Jahu.<br>
-🧑🏻‍💻  Sou estagiario de Back-end;
+🧑🏻‍💻  Sou estagiario de Back-end;<br>
 🏢🖥️  Nova data Tecnologia;
 </div>
 <hr><br>
