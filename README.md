@@ -2,6 +2,7 @@
 <div>
 😍 Sou apaixonado por Tecnologia<br>
 🏫📚  Estou no 6º Período de Gestão da Tecnologia da Informação na Fatec de Jahu.<br>
+  📚 continuo estudando novas tecologia alem da faculdade Power BI e Javascript.<br>
 🧑🏻‍💻  Sou estagiario de Desenvolvedor Back-end;<br>
 🏢🖥️  Nova data Tecnologia;
 </div>
