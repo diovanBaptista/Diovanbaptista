@@ -1,30 +1,38 @@
-<div align="center"><h2>Olá! Eu Sou Diovan.</h2></div>
-<div>
-😍 Sou apaixonado por Tecnologia<br>
-🏫📚  Estou no 6º Período de Gestão da Tecnologia da Informação na Fatec de Jahu.<br>
-💼📚  Continuo estudando novas tecologia alem da faculdade, Business Intelligence e Javascript.<br>
-🧑🏻‍💻  Sou Desenvolvedor Back-end;<br>
-🏢🖥️  Nova data Tecnologia;
-</div>
-<hr><br>
-<div align="center">
-  <a href="https://github.com/diovanbaptista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diovanbaptista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diovanbaptista&layout=compact&langs_count=7&theme=dracula"/>
-  <br>
+<img src="computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Diovan">
+
+<p align="left"> 
+  Eai, meu nome é Diovan Baptista Sou <strong>Desenvolvedor Backend</strong>.<br>
+  Sou fomado em <strong>Gestão de Tecnologia da Informação</strong> na Fatec Jahu
+</p>
+
+<p align="left">
+  🦄 Tecnologias: <strong> Python | Django | JavaScript | Node.js | PHP | Sql  </strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Git, e Notion</strong>
+</p>
+
+<p align="left">
+  Se desejar trocar uma ideia comigo irei ficar a disposição: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/diovan_vinicius/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diovan_vinicius/"/></a>
   
-  <img align="center" alt="diovan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="diovan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="diovan-django" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="diovan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="diovan-php" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  
-</div>
-<hr>
-<div align="center">
-  
-  
-  <a href = "mailto:Diovantrab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diovan-baptista-98ab24212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-</div>
+  <a href="https://www.linkedin.com/in/diovan-baptista-98ab24212/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diovan-baptista-98ab24212/" /></a>
+
+</p>  
+
+<p align="left" style="display: inline_block;"><br>
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+<!--   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> -->
+<!--   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+<!--   <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> -->
+<!--   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
+  <img align="center" alt="Postgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<!--   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> -->
+</p>
