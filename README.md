@@ -1,16 +1,16 @@
 <img src="computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Diovan">
 
 <p align="left"> 
-  Eai, meu nome é Diovan Baptista Sou <strong>Desenvolvedor Backend</strong>.<br>
+  Eai, meu nome é Diovan Baptista Sou <strong>Desenvolvedor FullStack</strong>.<br>
   Sou fomado em <strong>Gestão de Tecnologia da Informação</strong> na Fatec Jahu
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong> Python | Django | JavaScript | Node.js | NestJs | C# | . NET | Sql | GitFlow </strong>
+  🦄 Tecnologias:<br> <strong> Python | Django | JavaScript | Node.js | NestJs | C# | . NET | Sql | GitFlow | React </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git, e Notion</strong>
+  💼 Ferramentas:<br> <strong>VSCode, Figma, Git, e Notion</strong>
 </p>
 
 <p align="left">
