@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong> Python | Django | JavaScript | Node.js | PHP | Sql | GitFlow </strong>
+  🦄 Tecnologias: <strong> Python | Django | JavaScript | Node.js | NestJs | C# | . NET | Sql | GitFlow </strong>
 </p>
 
 <p align="left">
