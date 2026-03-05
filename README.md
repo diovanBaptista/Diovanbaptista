@@ -5,12 +5,33 @@
   Sou fomado em <strong>Gestão de Tecnologia da Informação</strong> na Fatec Jahu
 </p>
 
+
+
 <p align="left">
-  🦄 Tecnologias:<br> <strong> Python | Django | JavaScript | Node.js | NestJs | C# | . NET | Sql | GitFlow | React </strong>
+  🚀 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GitFlow](https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 </p>
 
 <p align="left">
-  💼 Ferramentas:<br> <strong>VSCode, Figma, Git, e Notion</strong>
+  🛠 Ferramentas
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 </p>
 
 <p align="left">
@@ -26,10 +47,12 @@
 
 </p>  
 
-<p align="left" style="display: inline_block;"><br>
-    <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-    <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/>
-    <img align="center" alt="Manu-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-    <img align="center" alt="Postgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</p>
+<p align="left">
+
+
+
+
+
+
+
+
